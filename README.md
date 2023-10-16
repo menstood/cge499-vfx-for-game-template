@@ -1,27 +1,21 @@
 # Project Template สำหรับวิชา CGE499 Visual Effect for Game
+## MID Term Project
+- ใส่Material ให้เหมาะสมกับ Model ที่ให้
+- จัดแสง ให้สวยงาน (กลางวันกลางคืนได้หมด)
+- ใส่ Environment ต่างๆให้เหมาะสมกับฉาก (น้ำ ไฟ หรืออะไรก็ได้ที่คิดว่าเหมาะสม)
+- สามารถนำ Texture อื่นๆมาใส่ได้ ตามความเหมาะสม
+- **ห้ามน้ำโมเดลอื่นๆ นอกเหนือจากที่มีให้ในโปรเจคมาใช้**
 
-## Installation
-- Unity version 2022 LTS [Download](https://unity.com/download)
-- Visual Studio / Visual Studio Code
-## Shader Graph
-Tool เอาไว้สำหรับเขียน Shader แบบ Visual Node ทำให้ง่ายสำหรับผู้ที่เริ่มต้นเขียน Shader
-วิธีลง
-- Package Manager
-- เลือก Unity Registry
-- Shader Graph
+================================================
 
+วิธีส่งงาน
+ส่งเป็น Folder เหมือนตอนทำ Shader น้ำ ข้างในประกอบไปด้วย
+วิดิโอ กดปุ่ม Play แล้วอัดวิดิโอ หน้า Game (ห้ามใช้ Scene นะครับ)เดี๋ยวกล้องมันขยับไปเอง นศ ไม่ต้องทำอะไรเลยแค่อัดวิดิโอไว้เฉยๆ
+Screen shot ของ Shader แยก folder ตั้งชื่อ Folder ตาม Shader ได้เลย ข้างในมี Screen shot Module ต่างๆ
 
-<br>[Document](https://docs.unity3d.com/Manual/shader-graph.html)</br>
-[แบบง่ายๆ](https://github.com/menstood/ShaderGraph)
+กำหนดส่ง 31 ตุลาคม 2566
+================================================
 
-## Particle System
-Tool สำหรับสร้าง Particle Effect แบบพื้นฐาน สำหรับคนที่ไม่เคยเขียนโค้ดมาก่อน
-## VFX Graph
-Tool สำหรับสร้าง Particle Effect แบบขั้นสูง เหมาะสำหรับคนที่เชี่ยวชาญ Visual Node
-วิธีลง
-- Package Manager
-- เลือก Unity Registry
-- VFX Graph
 ## Contanct Info
 เม่น
 menstood@gmail.com
