@@ -189,27 +189,47 @@ AnimationClip:
       value: {fileID: 0}
     - time: 5.0333333
       value: {fileID: 0}
+    - time: 5.0666666
+      value: {fileID: 0}
     - time: 10.033334
       value: {fileID: 0}
+    - time: 10.133333
+      value: {fileID: 0}
     - time: 14.983334
+      value: {fileID: 0}
+    - time: 15
       value: {fileID: 0}
     - time: 20.066668
       value: {fileID: 0}
     - time: 25.083334
       value: {fileID: 0}
+    - time: 25.133333
+      value: {fileID: 0}
+    - time: 25.2
+      value: {fileID: 0}
     - time: 30.016666
       value: {fileID: 0}
+    - time: 30.066668
+      value: {fileID: 0}
     - time: 35.166668
+      value: {fileID: 0}
+    - time: 35.2
       value: {fileID: 0}
     - time: 40.1
       value: {fileID: 0}
     - time: 40.116665
       value: {fileID: 0}
+    - time: 40.2
+      value: {fileID: 0}
     - time: 45.216667
       value: {fileID: 0}
     - time: 45.233334
       value: {fileID: 0}
+    - time: 45.266666
+      value: {fileID: 0}
     - time: 50.116665
+      value: {fileID: 0}
+    - time: 50.133335
       value: {fileID: 0}
     attribute: m_LookAt
     path: 
@@ -255,12 +275,22 @@ AnimationClip:
     - {fileID: 0}
     - {fileID: 0}
     - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
   m_AnimationClipSettings:
     serializedVersion: 2
     m_AdditiveReferencePoseClip: {fileID: 0}
     m_AdditiveReferencePoseTime: 0
     m_StartTime: 0
-    m_StopTime: 50.13333
+    m_StopTime: 50.15
     m_OrientationOffsetY: 0
     m_Level: 0
     m_CycleOffset: 0
